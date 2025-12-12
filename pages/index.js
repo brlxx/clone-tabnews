@@ -1,5 +1,5 @@
-function Home () {
-    return <h1>Anonymous, se você estiver vendo isso me ligue agora mesmo no discord e imite um elefante!!</h1>;
+function Home() {
+  return <h1>Mãe, eu te amo muito. Se você me ama da uma risadinha!!</h1>;
 }
 
 export default Home;
